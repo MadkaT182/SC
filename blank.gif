@@ -1,0 +1,413 @@
+#EXTM3U
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== ARGENTINA ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="360" tvg-logo="ZIRjqbo.png" group-title="ARGENTINA",360
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/index_350_av-b.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="13 Rioja" tvg-logo="" group-title="ARGENTINA",13 Rioja
+http://iphone-streaming.ustream.tv/ustreamVideo/14694479/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="5tv" tvg-logo="" group-title="ARGENTINA",5tv
+rtmp://www.coninfo.net:1935/tvcinco/live2
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="A24" tvg-logo="" group-title="ARGENTINA",A24
+https://www.youtube.com/embed/NCfc_zDzLD0?rel=0&au­toplay=1
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Argentinisima" tvg-logo="" group-title="ARGENTINA",Argentinisima
+http://www.dailymotion.com/cdn/live/video/x3s8tgx.m3u8?redirect=0&auth=1457144111%2D2562%2Dwv6wcaee%2D0f81c411c1c0b2e72ee1900f32f9e73c
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="C5N" tvg-logo="" group-title="ARGENTINA",C5N
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal 2" tvg-logo="" group-title="ARGENTINA",Canal 2
+rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal 26" tvg-logo="" group-title="ARGENTINA",Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal 26" tvg-logo="" group-title="ARGENTINA",Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1888852998_b2628000_sleng.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal 4" tvg-logo="" group-title="ARGENTINA",Canal 4
+rtmp://streaming.wirenetserver.com.ar/canal4/live_1
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal 9" tvg-logo="" group-title="ARGENTINA",Canal 9
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal 9 Paraná" tvg-logo="" group-title="ARGENTINA",Canal 9 Paraná
+http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Cordoba 10" tvg-logo="" group-title="ARGENTINA",Cordoba 10
+http://iphone-streaming.ustream.tv/ustreamVideo/20251601/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="DXTV" tvg-logo="" group-title="ARGENTINA",DXTV
+http://186.33.227.200:1935/DXTV/DXTV.smil/chunklist_b800000_slesp.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="El Trece" tvg-logo="" group-title="ARGENTINA",El Trece
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Magazine" tvg-logo="" group-title="ARGENTINA",Magazine
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Mar del plata TV 10" tvg-logo="" group-title="ARGENTINA",Mar del plata TV 10
+http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Misiones 2" tvg-logo="" group-title="ARGENTINA",Misiones 2
+http://190.57.237.230/live/canal2.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Misiones 4" tvg-logo="" group-title="ARGENTINA",Misiones 4
+http://streamlky.alsolnet.com/misionescuatro/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Norte Tv" tvg-logo="" group-title="ARGENTINA",Norte Tv
+rtmp://5.9.59.236/golive/59_305_live
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="One Tv" tvg-logo="" group-title="ARGENTINA",One Tv
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Pakapaka" tvg-logo="" group-title="ARGENTINA",Pakapaka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="TaTeTi" tvg-logo="" group-title="ARGENTINA",TaTeTi
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="TaTeTi (Alt)" tvg-logo="" group-title="ARGENTINA",TaTeTi (Alt)
+http://ionlive1-lh.akamaihd.net:80/i/tateti_1@126174/index_724_av-p.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="TDC" tvg-logo="" group-title="ARGENTINA",TDC
+rtmp://painel.serveron.com.br/8166/8166
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Telemax" tvg-logo="" group-title="ARGENTINA",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tv Publica" tvg-logo="" group-title="ARGENTINA",Tv Publica
+http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/chunklist_w563752439_b1264000_sleng.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tv Rionegrina" tvg-logo="" group-title="ARGENTINA",Tv Rionegrina
+rtmp://184.172.26.212/live/live15
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Viajar TV" tvg-logo="" group-title="ARGENTINA",Viajar TV
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== BOLIVIA ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Abya Yala" tvg-logo="" group-title="BOLIVIA",Abya Yala
+rtmp://tevemi-server1.entrydns.org:1935/8036/8036
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Gigavision" tvg-logo="" group-title="BOLIVIA",Gigavision
+rtmp://www.server.tevemi.com:1935/8110/8110
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Red Pat" tvg-logo="" group-title="BOLIVIA",Red Pat
+rtmp://www.server.tevemi.com:1935/8092/8092
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Unitel" tvg-logo="Pruebas" group-title="BOLIVIA",Unitel
+http://livestream-f.akamaihd.net/8665913_3330503_b6f22c3dfff348f991ccf415785ccfb5_1_678@132769?v=3.6.0&fp=WIN%2020,0,0,306&r=SNIJY&g=YHBMFAVTOOBO
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== CHILE ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal 5" tvg-logo="" group-title="CHILE",Canal 5
+http://v1.streaminglatinoamerica.com:1935/canal5/canal5/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal Trece" tvg-logo="Test" group-title="CHILE",Canal Trece
+http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="La Red HD" tvg-logo="tMYzJvI.png" group-title="CHILE",La Red HD
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/BratuMarian.m3u
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Telecanal" tvg-logo="nvdoxXN.png" group-title="CHILE",Telecanal
+http://wow2.cl.digitalproserver.com/tcsc/tcscvivo/tcsc.smil/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tv Chile" tvg-logo="3pnHl9g.jpg" group-title="CHILE",Tv Chile
+http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="TVN" tvg-logo="zdRGG53.png" group-title="CHILE",TVN
+http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== COLOMBIA ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Cable Noticias" tvg-logo="Jr3V5xF.png" group-title="COLOMBIA",[COLOR lightblue]Cable Noticias[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal Antiestres" tvg-logo="euhookb.png" group-title="COLOMBIA",Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal Capital" tvg-logo="DSOEI51.png" group-title="COLOMBIA",Canal Capital
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal TR3CE" tvg-logo="XTysfMW.png" group-title="COLOMBIA",[COLOR orange]Canal TR3CE[/COLOR]
+http://cdns840stu1010.multistream.net/canaltr3celive/amlst:live/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal TRO" tvg-logo="kDbrv3e.png" group-title="COLOMBIA",[COLOR green]Canal TRO[/COLOR]
+http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/canalesdelpueblotv.m3u8?iks61.channel26
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal U" tvg-logo="juNrIcc.png" group-title="COLOMBIA",Canal U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal UNO" tvg-logo="fgRBfI6.png" group-title="COLOMBIA",Canal UNO
+http://173.192.25.13:1935/TELE/smil:canaluno.smil/canalesdelpueblotv.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Cantinazo" tvg-logo="ilgOgfP.png" group-title="COLOMBIA",Cantinazo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Caracol" tvg-logo="Cw3RrZR.png" group-title="COLOMBIA",[COLOR blue]Caracol[/COLOR]
+http://79.143.186.15/live/caracol.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Cosmovisión" tvg-logo="OccrTLz.png" group-title="COLOMBIA",[COLOR lightblue]Cosmovisión[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="El Tiempo" tvg-logo="RrIIjC6.png" group-title="COLOMBIA",El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Hogar TV" tvg-logo="O4vkfrT.png" group-title="COLOMBIA",[COLOR purple]Hogar TV[/COLOR]
+http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Life Design" tvg-logo="ydj5evS.png" group-title="COLOMBIA",Life Design
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Mi Música HD" tvg-logo="1LO6uE0.png" group-title="COLOMBIA",Mi Música HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="RCN Web" tvg-logo="vJgcdMZ.png" group-title="COLOMBIA",[COLOR blue]RCN Web[/COLOR]
+http://lv13msssopsccc.4cloud.co/livercn/AppSenalRcn/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Señal Colombia" tvg-logo="D8kUZ9j.png" group-title="COLOMBIA",Señal Colombia
+http://173.192.25.13:1935/TELE/smil:senalcolombia.smil/canalesdelpueblotv.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tele Amiga" tvg-logo="RvPV9gt.png" group-title="COLOMBIA",[COLOR blue]Tele Amiga[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tele Antioquia" tvg-logo="bZugTrZ.png" group-title="COLOMBIA",Tele Antioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tele Café" tvg-logo="n7Fhoxb.png" group-title="COLOMBIA",[COLOR lightgreen]Tele Café[/COLOR]
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="TeleCaribe" tvg-logo="VN9DdVA.png" group-title="COLOMBIA",[COLOR cyan]TeleCaribe[/COLOR]
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Telemedellín" tvg-logo="O5JRlWb.png" group-title="COLOMBIA",[COLOR orange]Telemedellín[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Telepacífico" tvg-logo="hYcmH2c.png" group-title="COLOMBIA",Telepacífico
+http://cdns840stu1010.multistream.net/telepacificolive/amlst:playback1/playlist_b500000.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tigo Music" tvg-logo="HnY6q6K.png" group-title="COLOMBIA",Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tv Agro" tvg-logo="plrTUPO.png" group-title="COLOMBIA",[COLOR lightgreen]Tv Agro[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="UNE" tvg-logo="2xXeeu9.png" group-title="COLOMBIA",UNE
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEM/tu1_manifest.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Une Tv Armenia" tvg-logo="HjHSe7n.png" group-title="COLOMBIA",Une Tv Armenia
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Une Tv Caribe" tvg-logo="qFSDToj.png" group-title="COLOMBIA",Une Tv Caribe
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Une Tv Manizales" tvg-logo="rDKuqae.png" group-title="COLOMBIA",Une Tv Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Vmás TV" tvg-logo="g8jIv2U.png" group-title="COLOMBIA",[COLOR orange]Vmás TV[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_manifest.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Zoom Tv" tvg-logo="VnHvOn0.png" group-title="COLOMBIA",Zoom Tv
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== COSTA RICA ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="27 TV" tvg-logo="JM8rhLU.png" group-title="COSTA RICA",27 TV
+http://cdn.siscompnetwork.com:1935/app/canal27.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Antena Latina" tvg-logo="VQsMBom.png" group-title="COSTA RICA",Antena Latina
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal 42" tvg-logo="el8RHdp.png" group-title="COSTA RICA",[COLOR red]Canal 42[/COLOR]
+http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal Trece" tvg-logo="IrJqc6B.png" group-title="COSTA RICA",Canal Trece
+http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="CB24 Noticias" tvg-logo="5bgQicB.png" group-title="COSTA RICA",CB24 Noticias
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Teleuno" tvg-logo="anVw3F1.png" group-title="COSTA RICA",Teleuno
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="TVS" tvg-logo="CX45F9p.png" group-title="COSTA RICA",TVS
+rtmp://unoredrtmp.tulix.tv:1935/granro/livestream1
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== CULTURA ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Discovery" tvg-logo="" group-title="CULTURA",Discovery
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="DW Latinoamérica" tvg-logo="XjaTs1Y.png" group-title="CULTURA",DW Latinoamérica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Ingenio Tv" tvg-logo="Of8wwq2.png" group-title="CULTURA",[COLOR purple]Ingenio Tv[/COLOR]
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tele Docencia" tvg-logo="" group-title="CULTURA",Tele Docencia
+http://dl-dgtve.xsn.com.mx/dgtve/canal12dgtve.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tele Secundaria" tvg-logo="" group-title="CULTURA",Tele Secundaria
+http://dl-dgtve.xsn.com.mx/dgtve/canal11dgtve.mp4/playlist.m3u8
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== ECUADOR ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="RTS" tvg-logo="HqZRkyQ.png" group-title="ECUADOR",[COLOR lightgreen]RTS[/COLOR]
+http://d2rcb4pdmqg3cg.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Televisión Nacional" tvg-logo="" group-title="ECUADOR",Televisión Nacional
+http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="TVS" tvg-logo="0l0HtX0.png" group-title="ECUADOR",TVS
+http://181.198.10.23:1935/live/_definst_/mp4:mystream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="UCGS TV" tvg-logo="gH8yYv5.png" group-title="ECUADOR",[COLOR red]UCGS TV[/COLOR]
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== EL SALVADOR ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal 10" tvg-logo="" group-title="EL SALVADOR",Canal 10
+http://198.24.135.42/canal10/canal10/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal 11" tvg-logo="" group-title="EL SALVADOR",Canal 11
+rtmp://198.24.135.42:80/canal11/canal11
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal 2" tvg-logo="c38a9Nk.png" group-title="EL SALVADOR",[COLOR cyan]Canal 2[/COLOR]
+http://streamup.global.ssl.fastly.net/app/tsltvs-channel/playlist.m3u9
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal 33" tvg-logo="" group-title="EL SALVADOR",Canal 33
+http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal 6" tvg-logo="apL8Vif.png" group-title="EL SALVADOR",[COLOR pink]Canal 6[/COLOR]
+http://streamup.global.ssl.fastly.net/app/c3r000s3iss-channel/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Genteve" tvg-logo="" group-title="EL SALVADOR",Genteve
+http://cdns840stu1010.multistream.net/genteve.c29.svlive/amlst:live/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Megavisión" tvg-logo="z16pA7J.png" group-title="EL SALVADOR",[COLOR blue]Megavisión[/COLOR]
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="TRV" tvg-logo="qp0iUj3.png" group-title="EL SALVADOR",[COLOR blue]TRV[/COLOR]
+http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="TVO" tvg-logo="" group-title="EL SALVADOR",TVO
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== ENTRETENIMIENTO ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Antena 3" tvg-logo="sNwsuA0.png" group-title="ENTRETENIMIENTO",[COLOR orange]Antena 3[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal Cine" tvg-logo="" group-title="ENTRETENIMIENTO",Canal Cine
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal de las estrellas" tvg-logo="fp6UdsT.png" group-title="ENTRETENIMIENTO",Canal de las estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Mundo Max" tvg-logo="5VU6qur.png" group-title="ENTRETENIMIENTO",Mundo Max
+http://video-cdn.streamup.com:80/app/ana69s-channel/live.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tvc Latino" tvg-logo="" group-title="ENTRETENIMIENTO",Tvc Latino
+rtmp://76.79.146.124:1935/live/TVCSB
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== ESPAÑA ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Andalucia Tv" tvg-logo="ss0WwQP.png" group-title="ESPAÑA",Andalucia Tv
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Antena 3" tvg-logo="sNwsuA0.png" group-title="ESPAÑA",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Antena 3 Series" tvg-logo="" group-title="ESPAÑA",Antena 3 Series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Intereconomia" tvg-logo="" group-title="ESPAÑA",Intereconomia
+http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="La 1" tvg-logo="GsmXNJm.png" group-title="ESPAÑA",La 1
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="La 2" tvg-logo="HeyIeox.png" group-title="ESPAÑA",La 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="La Sexta" tvg-logo="dbhzLfZ.png" group-title="ESPAÑA",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Mega HD" tvg-logo="0N2x6Zs.png" group-title="ESPAÑA",Mega HD
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Navarra TV" tvg-logo="Oh0mxVR.png" group-title="ESPAÑA",Navarra TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="RT en Español" tvg-logo="C4t5cIQ.png" group-title="ESPAÑA",RT en Español
+http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="RTPA" tvg-logo="NKjq3F6.png" group-title="ESPAÑA",RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="TVE" tvg-logo="sIGRjPQ.png" group-title="ESPAÑA",TVE
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== GUATEMALA ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Azteca Guate" tvg-logo="" group-title="GUATEMALA",Azteca Guate
+http://aztecalive-lh.akamaihd.net/i/1ym9yab3c_1@66742/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Guatevisión" tvg-logo="LqVkwQo.png" group-title="GUATEMALA",Guatevisión
+http://162.220.219.35:8081/live/stream1.sdp/playlist.m3u8
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== HONDURAS ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Azteca Honduras" tvg-logo="zcjypXC.png" group-title="HONDURAS",Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Globo Tv" tvg-logo="1qfAu3T.png" group-title="HONDURAS",Globo Tv
+http://162.212.176.83:8080/globotv.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="HCH" tvg-logo="" group-title="HONDURAS",HCH
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Vica TV" tvg-logo="" group-title="HONDURAS",Vica TV
+http://162.212.176.83:8080/vicatv.m3u8
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== MEXICO ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="5tv" tvg-logo="" group-title="MEXICO",5tv
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Aprende Tv" tvg-logo="" group-title="MEXICO",Aprende Tv
+rtmp://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Azteca 13" tvg-logo="" group-title="MEXICO",Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Azteca 7" tvg-logo="" group-title="MEXICO",Azteca 7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal 2 Obregón" tvg-logo="" group-title="MEXICO",Canal 2 Obregón
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal 7" tvg-logo="" group-title="MEXICO",Canal 7
+rtmp://187.188.159.113/live/web.sdp
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Efekto TV" tvg-logo="" group-title="MEXICO",Efekto TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Mexiquense" tvg-logo="" group-title="MEXICO",Mexiquense
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Ocho Tv" tvg-logo="" group-title="MEXICO",Ocho Tv
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Once Tv" tvg-logo="" group-title="MEXICO",Once Tv
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Proyecto 40" tvg-logo="" group-title="MEXICO",Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="RCG" tvg-logo="" group-title="MEXICO",RCG
+http://wowzacontrol.com:1935/stream34/stream34/live.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="RTG Guerrero" tvg-logo="" group-title="MEXICO",RTG Guerrero
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Telemar Campeche" tvg-logo="" group-title="MEXICO",Telemar Campeche
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Telemundo" tvg-logo="" group-title="MEXICO",Telemundo
+http://video07-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tv Más" tvg-logo="" group-title="MEXICO",Tv Más
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== NICARAGUA ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Viva Nicaragua" tvg-logo="" group-title="NICARAGUA",Viva Nicaragua
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== PANAMA ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Eco Tv" tvg-logo="7mCJ8wh.png" group-title="PANAMA",Eco Tv
+http://live.ecotvpanama.com/ecotv/media.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="RPC" tvg-logo="96c3bMr.png" group-title="PANAMA",RPC
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Ser TV" tvg-logo="RcX0bnw.png" group-title="PANAMA",Ser TV
+rtmp://216.224.177.132/live/sertv
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Telemetro" tvg-logo="oLkwINQ.png" group-title="PANAMA",Telemetro
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tv Blast" tvg-logo="" group-title="PANAMA",Tv Blast
+http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== PARAGUAY ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="RPC" tvg-logo="6CsYYEE.png" group-title="PARAGUAY",RPC
+http://70.36.100.38:1935/live/canal13_hq.stream/playlist.m3u8
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== PERU ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="ATV" tvg-logo="" group-title="PERU",ATV
+http://d1gsv35shoz9yr.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Frecuencia Latina" tvg-logo="" group-title="PERU",Frecuencia Latina
+http://ooyalahd2-f.akamaihd.net/i/latinalim_delivery@128959/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Panamericana TV" tvg-logo="Pruebas" group-title="PERU",Panamericana TV
+http://stream-01.sv6.dailymotion.com/01/dm/1/x18w5up/live.isml/live.m3u8?e=1457293417&st=wJlnh5Q9ZDxMXqRlRDGMLw
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="UCV" tvg-logo="" group-title="PERU",UCV
+rtmp://wowzacontrol.net:1935/8050/8050
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Willax Tv" tvg-logo="" group-title="PERU",Willax Tv
+rtmp://willax.mediastream.pe/vv_willax/livestream
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== REPUBLICA DOMINICANA ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Antena" tvg-logo="" group-title="REPUBLICA DOMINICANA",Antena
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Certv" tvg-logo="" group-title="REPUBLICA DOMINICANA",Certv
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Digital 15" tvg-logo="" group-title="REPUBLICA DOMINICANA",Digital 15
+https://5315e9fe566ea.streamlock.net/live5/telemicro1515_2_96/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Naranja TV" tvg-logo="" group-title="REPUBLICA DOMINICANA",Naranja TV
+http://ciez45.live.cloud.influxis.com/ciez45/NaranjaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Romana Tv" tvg-logo="" group-title="REPUBLICA DOMINICANA",Romana Tv
+http://tv.romanatv42.com:1935/rtplive/romanatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tele Antillas" tvg-logo="" group-title="REPUBLICA DOMINICANA",Tele Antillas
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tele Nord" tvg-logo="" group-title="REPUBLICA DOMINICANA",Tele Nord
+http://mek2.mekstream.com/telenord10/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tele Sistema" tvg-logo="DwHdI9j.png" group-title="REPUBLICA DOMINICANA",Tele Sistema
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Telemicro" tvg-logo="" group-title="REPUBLICA DOMINICANA",Telemicro
+https://5315e9fe566ea.streamlock.net/live5/telemicro0505_2_96/playlist.m3u8
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== SERIES VOD ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Anime 1" tvg-logo="bbIkZjz.png" group-title="SERIES VOD",[COLOR pink]Anime 1[/COLOR]
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Arrow" tvg-logo="ynx3Idx.png" group-title="SERIES VOD",[COLOR green]Arrow[/COLOR]
+http://iptvnation.com/arrowlat.mp4
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Grimm" tvg-logo="B151dci.png" group-title="SERIES VOD",[COLOR orange]Grimm[/COLOR]
+http://iptvnation.com/grimmlat.mp4
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Los Simpsons" tvg-logo="8qb0SB9.png" group-title="SERIES VOD",[COLOR yellow]Los Simpsons[/COLOR]
+http://iptvnation.com/simpsonslat.mp4
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Modern Family" tvg-logo="WGRHCCn.png" group-title="SERIES VOD",[COLOR orange]Modern Family[/COLOR]
+http://iptvnation.com/modernlat.mp4
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Peliculas" tvg-logo="uJOIM8D.png" group-title="SERIES VOD",Peliculas
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="South Park" tvg-logo="kVLG03A.png" group-title="SERIES VOD",[COLOR brown]South Park[/COLOR]
+http://iptvnation.com/southparklat.mp4
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== URUGUAY ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal Once" tvg-logo="" group-title="URUGUAY",Canal Once
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== VENEZUELA ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Anzoategui TV" tvg-logo="" group-title="VENEZUELA",Anzoategui TV
+rtmp://edge.wms28.lorini.net/anzoateguitv/anzoateguitv
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Canal 11" tvg-logo="" group-title="VENEZUELA",Canal 11
+http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="ConcienciaTv" tvg-logo="" group-title="VENEZUELA",ConcienciaTv
+rtmp://edge.wms28.lorini.net/concienciatv/concienciatv
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Globovision" tvg-logo="" group-title="VENEZUELA",Globovision
+rtmp://edge.wms28.lorini.net/globovisiontv/globovisiontv
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Tele Sur" tvg-logo="" group-title="VENEZUELA",Tele Sur
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/master.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="TRV" tvg-logo="" group-title="VENEZUELA",TRV
+rtmp://edge.wms28.lorini.net/trvtv/trvtv
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="TVES" tvg-logo="" group-title="VENEZUELA",TVES
+rtmp://cast.streamingconnect.tv/tves2/tves2
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Vale TV" tvg-logo="" group-title="VENEZUELA",Vale TV
+http://edge.wms28.lorini.net/valetv/valetv/playlist.m3u8
+#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== ZIP ==[/B][/COLOR]
+www.google.com
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="BC" tvg-logo="" group-title="ZIP",BC
+http://46.249.213.93/iPhone/broadcast/bellaclub-iphone.3gp/bellaclub-iphone.3gp-mr413k.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="BS" tvg-logo="" group-title="ZIP",BS
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="BS2" tvg-logo="" group-title="ZIP",BS2
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="BSS" tvg-logo="" group-title="ZIP",BSS
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="BSXtra" tvg-logo="" group-title="ZIP",BSXtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="css" tvg-logo="" group-title="ZIP",css
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="H100" tvg-logo="" group-title="ZIP",H100
+http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_100-tablet.3gp/hot_100-tablet.3gp-mr647k.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="HS" tvg-logo="" group-title="ZIP",HS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="JTV" tvg-logo="" group-title="ZIP",JTV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Korok" tvg-logo="" group-title="ZIP",Korok
+http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Korpa" tvg-logo="" group-title="ZIP",Korpa
+http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="Olala" tvg-logo="" group-title="ZIP",Olala
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="PX" tvg-logo="" group-title="ZIP",PX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista MadkaT q" tvg-name="RLC" tvg-logo="" group-title="ZIP",RLC
+http://playback.d2see.com/wavemachine-live01/playboytv_channel1/chunklist_w909470677.m3u8
